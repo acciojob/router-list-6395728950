@@ -5,7 +5,7 @@ import ItemDetail from './ItemDetail'
 const ItemList = () => {
   return (
     <div>
-       <h2>Item List</h2>
+       <h1>Item List</h1>
         <Link to='/items/1'>Item 1</Link>
         <br></br>
         <Link to='/items/2'>Item 2</Link>
